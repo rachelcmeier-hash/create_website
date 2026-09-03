@@ -1,82 +1,48 @@
-# GitHub Template Repository
+# Rachel Meier: Personal Porfollio
 
-Welcome to the GitHub template repository for the **courses (CS3361, CS3365)**! This template serves as a starting point for your first assignment of creating and deploying your portfolio. Follow the instructions below to download, customize, and push your work to your own GitHub repository.
-
----
-
-## 📂 Repository Structure
-The template includes the following structure:
-
-```
-📦create_website
- ┣ 📂files/         # Add your CV PDF inside this folder
- ┣ 📂images/        # Add your image inside this folder
- ┣ projects.html    # Update this file to add your own project details
- ┣ index.html       # Update this file for the main page of your portfolio
- ┣ 📜README.md      # Project instructions and information
- ┗ 📜LICENSE        # Licensing information
-```
+This project is the personal profile for Rachel Meier for CS 3365, but can be used in a professional setting. The website created gives an about me section, contact information, technical skills, and projects.
 
 ---
 
-## 🚀 Getting Started
+## Technology Used
 
-### 1. **Clone or Download This Repository**  
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/MaazAmjad/create_website.git
-```
-Alternatively, download it as a ZIP file and extract it.
-
----
-
-### 2. **Update Your Information**  
-Make the following changes:
-- Replace placeholder information (e.g., `Your Name`, `Project Title`) with your details.
-- Add your project code and any required files in the respective folders.
+- HTML
+- CSS
+- Git
+- GItHub
+- GitBash
+- Visual Studio Code
 
 ---
 
-### 3. **Create Your GitHub Repository**  
-1. Log in to your GitHub account.  
-2. Create a new repository (**public** unless otherwise specified).  
-3. Copy the repository URL for use in the next step.
+## Portfollio Section
+
+- About Me : Information about academic background, interest, and career goals.
+
+- Skills: Collection of academic and technical skills.
+
+- Projects: Projects I have previous completed:
+    - Online Shopping System in Java
+    - CMOD FPGA Countdown Timer using Verilog and Vivado
+
+- Contact Information
 
 ---
 
-### 4. **Push Your Changes to Your Repository**  
-Run the following commands to upload your project to your new repository:
+### GitHub Repository
 
-```bash
-# Initialize a new Git repository
-git init
-
-# Stage all changes
-git add .
-
-# Commit your changes
-git commit -m "Initial commit"
-
-# Set the main branch
-git branch -M main
-
-# Add the remote repository
-git remote add origin <your-repo-url>
-
-# Push changes to GitHub
-git push -u origin main
-```
+- https://github.com/rachelcmeier-hash/create_website
 
 ---
 
-## 📝 Submission Instructions  
-Once you have pushed your work to GitHub, submit the repository link as per the instructions provided in the course.
+## How to View
 
----
+Portfollio can be viewed by opening Github Pages deployment link in the above section. 
 
-### ⚖️ License  
-This project template is licensed under the [MIT License](LICENSE).
+The source code can also be downloaded or cloned from GitHub repository.
 
----
+Instruction to clone the repository:
 
-Celebrate and enjoy your coding experience! 🚀
+- git clone https://github.com/rachelcmeier-hash/create_website.git
+
+- Then open index.html in a web browser to view the portfolio locally.
